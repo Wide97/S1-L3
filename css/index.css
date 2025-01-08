@@ -1,4 +1,109 @@
 body{
-    margin: 0 25%;
+    margin: 0;
     padding: 0;
+}
+
+.simply {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.simply img {
+    width: 13%;
+}
+
+.sub-title {
+    background-color: rgb(212, 211, 131);
+    text-align: center;
+    padding: 3px 0;
+    border-top: 2px solid rgb(202, 150, 53);
+    margin-bottom: 50px;
+}
+
+.sub-title span {
+    font-weight: bold;
+}
+
+.main-title {
+    margin: 0 35%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-section {
+    margin: 0 25%;
+    font-weight: bold;
+}
+
+.main-section img {
+    width: 100%;
+    border-radius: 10px;
+    height: auto;
+    box-shadow: 10px 10px 5px rgba(110, 92, 92, 0.315);
+    
+}
+
+.main-section-1 {
+    margin: 0 28%;
+    text-align: center;
+    color: lightgrey;
+    margin-bottom: 30px;
+}
+
+.hr {
+    border-bottom: 1px solid lightblue;
+    margin-bottom: 50px;
+}
+
+.specifics {
+    margin: 0 25%;
+    border-left: solid 1px orange;
+    margin-bottom: 70px;
+}
+
+.specifics p {
+    padding-left: 20px;
+    color: red;
+    margin: 0;
+}
+
+.specifics a {
+    padding-left: 20px;
+}
+
+.ingredients {
+    margin: 0 25%;
+}
+
+.ul-lists li {
+    padding: 5px ;
+}
+
+.ul-lists p {
+    font-weight: bold;
+}
+
+.ending {
+    margin: 0 25%;
+}
+
+.ending p {
+    padding-left: 20px;
+}
+
+.ending-p {
+    margin-left: 20px;
+}
+
+.span {
+    font-weight: bold;
+}
+
+.text p {
+    padding-left: 35px;
+}
+
+footer {
+    margin: 0 25%;
+    margin-bottom: 30px;
 }
